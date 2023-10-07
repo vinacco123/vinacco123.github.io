@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Đội ngũ làm việc
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Các nhân sự chất lượng cao được đào tạo để mang lại trải nghiệm tốt nhất
