@@ -4,11 +4,11 @@ title: 'Vinacco'
 
 logo:
   mobile: "images/logo.svg"
-  mobile_height: "10px"
-  mobile_width: "10px"
+  mobile_height: "100px"
+  mobile_width: "100px"
   desktop: "images/logo.svg"
-  desktop_height: "10px"
-  desktop_width: "10px"
+  desktop_height: "100px"
+  desktop_width: "100px"
 
 home: 
   limit_services: 6
