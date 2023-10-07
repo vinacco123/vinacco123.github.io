@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Vinacco
 layout: home
 description: Home page
 intro_image: "images/illustrations/pointing.svg"
