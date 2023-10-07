@@ -11,6 +11,9 @@ main:
   - name: "Liên hệ"
     url: "/contact/"
     weight: 5
+  - name: "Home"
+    url: "/"
+    weight: 1
 
 footer:
   - name: "Home"
